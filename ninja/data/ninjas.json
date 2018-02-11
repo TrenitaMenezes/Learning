@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Tabsy",
+    "belt": "Orange",
+    "rate": 300,
+    "available": true,
+    "thumb": "content/img/Ajoy_tn.jpg"
+  }, {
+    "name": "Ajoy",
+    "belt": "Green",
+    "rate": 500,
+    "available": true,
+    "thumb": "content/img/Jaden_tn copy.jpg"
+  }, {
+    "name": "Sreya",
+    "belt": "Blue",
+    "rate": 1000,
+    "available": false,
+    "thumb": "content/img/Jaden_tn copy.jpg"
+  }, {
+    "name": "Amy",
+    "belt": "Black",
+    "rate": 300,
+    "available": true,
+    "thumb": "content/img/Amy_tn.jpg"
+  }, {
+    "name": "Jaden",
+    "belt": "Blue",
+    "rate": 600,
+    "available": true,
+    "thumb": "content/img/Sreya_tn.jpg"
+  }, {
+    "name": "Shammy",
+    "belt": "Red",
+    "rate": 200,
+    "available": true,
+    "thumb": "content/img/tabsy_tn.jpg"
+  }
+]
